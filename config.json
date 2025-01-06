@@ -1,31 +1,31 @@
 {
     "Начало": {
-        "welcome/welcome.md": "Добро пожаловать!",
-        "welcome/FAQ.md": "FAQ"
+        "welcome/welcome.md": "👋 Добро пожаловать!",
+        "welcome/FAQ.md": "❓ FAQ"
     },
     "Основное": {
-        "main/information.md": "Информация",
-        "main/howtoplay.md": "Как начать играть",
-        "main/rules.md": "Правила",
-        "main/commands.md": "Команды",
-        "main/modifications.md": "Модификации"
+        "main/information.md": "📌 Информация",
+        "main/howtoplay.md": "🎮 Как начать играть",
+        "main/rules.md": "📚 Правила",
+        "main/commands.md": "🖨️ Команды",
+        "main/modifications.md": "⚙️ Модификации"
     },
     "Модификации": {
-        "modifications/armorstands.md": "Редактор стендов",
-        "modifications/bank.md": "Банк",
-        "modifications/buhlo.md": "Коктейли",
-        "modifications/chat.md": "Чат",
-        "modifications/drugs.md": "Вещества",
-        "modifications/emotes.md": "Эмоции",
-        "modifications/graves.md": "Надгробия",
-        "modifications/onlinemap.md": "Онлайн-карта",
-        "modifications/paintings.md": "Рисование картин",
-        "modifications/skins.md": "Скины",
-        "modifications/voicechat.md": "Голосовой чат",
-        "modifications/volley.md": "Волейбол"
+        "modifications/armorstands.md": "🕺 Редактор стендов",
+        "modifications/bank.md": "🏦 Банк",
+        "modifications/buhlo.md": "🍸 Коктейли",
+        "modifications/chat.md": "💬 Чат",
+        "modifications/drugs.md": "🧂 Вещества",
+        "modifications/emotes.md": "🎭 Эмоции",
+        "modifications/graves.md": "👻 Надгробия",
+        "modifications/onlinemap.md": "🗺️ Онлайн-карта",
+        "modifications/paintings.md": "🎨 Рисование картин",
+        "modifications/skins.md": "👕 Скины",
+        "modifications/voicechat.md": "🎙️ Голосовой чат",
+        "modifications/volley.md": "⚾ Волейбол"
     },
     "Рецепты": {
-        "recipes/light_block.md": "Блок света"
+        "recipes/light_block.md": "💡 Блоки света"
     },
     "Документы": {
         "legal/rules-for-players.md": "Правила игры на сервере",
