@@ -5,9 +5,27 @@
     },
     "Основное": {
         "main/information.md": "Информация",
-        "main/rules.md": "Правила",
         "main/howtoplay.md": "Как начать играть",
-        "main/commands.md": "Команды"
+        "main/rules.md": "Правила",
+        "main/commands.md": "Команды",
+        "main/modifications.md": "Модификации"
+    },
+    "Модификации": {
+        "modifications/armorstands.md": "Редактор стендов",
+        "modifications/bank.md": "Банк",
+        "modifications/buhlo.md": "Коктейли",
+        "modifications/chat.md": "Чат",
+        "modifications/drugs.md": "Вещества",
+        "modifications/emotes.md": "Эмоции",
+        "modifications/graves.md": "Надгробия"
+        "modifications/onlinemap.md": "Онлайн-карта",
+        "modifications/paintings.md": "Рисование картин",
+        "modifications/skins.md": "Скины",
+        "modifications/voicechat.md": "Голосовой чат",
+        "modifications/volley.md": "Волейбол"
+    },
+    "Рецепты": {
+        "recipes/light_block.md": "Блок света"
     },
     "Документы": {
         "legal/rules-for-players.md": "Правила игры на сервере",
