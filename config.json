@@ -1,20 +1,19 @@
 {
-  "Начало": {
-    "welcome/welcome.md": "Добро пожаловать!",
-    "welcome/FAQ.md": "FAQ"
-  },
-  "Основное": {
-    "main/information.md": "Информация",
-    "main/rules.md": "Правила",
-    "main/howtoplay.md": "Как начать играть",
-    "main/commands.md": "Команды",
-    
-  },
-  "Документы": {
-    "legal/payment-terms.md": "Условия оплаты",
-    "legal/privacy-policy.md": "Политика конфиденциальности",
-    "legal/refund-policy.md": "Политика в отношении возврата денежных средств",
-    "legal/rules-for-players.md": "Правила для игроков",
-    "legal/user-agreement.md": "Пользовательское соглашение"
-  }
+    "Начало": {
+        "welcome/welcome.md": "Добро пожаловать!",
+        "welcome/FAQ.md": "FAQ"
+    },
+    "Основное": {
+        "main/information.md": "Информация",
+        "main/rules.md": "Правила",
+        "main/howtoplay.md": "Как начать играть",
+        "main/commands.md": "Команды"
+    },
+    "Документы": {
+        "legal/payment-terms.md": "Условия оплаты",
+        "legal/privacy-policy.md": "Политика конфиденциальности",
+        "legal/refund-policy.md": "Политика в отношении возврата денежных средств",
+        "legal/rules-for-players.md": "Правила для игроков",
+        "legal/user-agreement.md": "Пользовательское соглашение"
+    }
 }
