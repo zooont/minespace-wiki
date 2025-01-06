@@ -10,10 +10,12 @@
         "main/commands.md": "Команды"
     },
     "Документы": {
-        "legal/payment-terms.md": "Условия оплаты",
+        "legal/rules-for-players.md": "Правила игры на сервере",
         "legal/privacy-policy.md": "Политика конфиденциальности",
+        "legal/user-agreement.md": "Пользовательское соглашение",
+        "legal/payment-terms.md": "Условия оплаты",
         "legal/refund-policy.md": "Политика в отношении возврата денежных средств",
-        "legal/rules-for-players.md": "Правила для игроков",
-        "legal/user-agreement.md": "Пользовательское соглашение"
+        "legal/inactivity-policy.md": "Политика в отношении бездействия",
+        "legal/intellectual-property-notice.md": "Intellectual Property Notice"
     }
 }
