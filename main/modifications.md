@@ -9,29 +9,30 @@
 
 ### Список <span style="color:red;"><b>**запрещенных**</b></span> модификаций:
 ::quote-card{type="danger" unnamed="true"}
-  - Чит-модификации (любого вида)<br>
-  - Авто-тотем модификации (любого вида)<br>
-  - Модификации, выполняющие действия за игрока<br>
-  - AutoClicker<br>
-  - Aristois<br>- Baritone<br>
-  - BetterPVP<br>
-  - ClientCommands<br>
-  - CMDCam<br>
-  - EasyPlaceMode<br>
-  - Fabritone<br>
-  - FindMe<br>
-  - FreeCam (Noclip)<br>
-  - Inertia<br>
-  - InvMove<br>
-  - Jello<br>
-  - LavaClearView<br>
-  - Libririan Trade Finder<br>
-  - MultiConnect<br>
-  - SeedCracker (а также другие моды и программы, выполняющие функции этого мода)<br>
-  - Sigma<br>
-  - Tweakeroo<br>
-  - Wall-Jump<br>
-  - Wurst<br>
+  - Чит-модификации (любого вида)
+  - Авто-тотем модификации (любого вида)
+  - Модификации, выполняющие действия за игрока
+  - AutoClicker
+  - Aristois
+  - Baritone
+  - BetterPVP
+  - ClientCommands
+  - CMDCam
+  - EasyPlaceMode
+  - Fabritone
+  - FindMe
+  - FreeCam (Noclip)
+  - Inertia
+  - InvMove
+  - Jello
+  - LavaClearView
+  - Libririan Trade Finder
+  - MultiConnect
+  - SeedCracker (а также другие моды и программы, выполняющие функции этого мода)
+  - Sigma boy
+  - Tweakeroo
+  - Wall-Jump
+  - Wurst
   - X-ray модификации (любого вида)
 ::
 
