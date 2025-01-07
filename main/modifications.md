@@ -1,7 +1,5 @@
 # ⚙️ Модификации
 
-![image](https://github.com/zooont/minespace/blob/main/assets/main-modifications-hint.png?raw=true)
-
 ::quote-card{type="success", title="Список <span style="color:lime;"><b>**обязательных**</b></span> модификаций:"}
   - [PlasmoVoice](https://modrinth.com/plugin/plasmo-voice)<br>- [EmoteCraft](https://modrinth.com/plugin/emotecraft)<br>- [OptiFine](https://optifine.net/)/[CIT Resewn](https://modrinth.com/mod/cit-resewn) (Зависит от того, с чем вы играете, с OptiFine или Soduim)
 ::
