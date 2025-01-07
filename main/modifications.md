@@ -1,13 +1,13 @@
 # ⚙️ Модификации
 
-#### Список**обязательных** модификаций:
+### Список <span style="color:lime;"><b>**обязательных**</b></span> модификаций:
 ::quote-card{type="success" unnamed="true"}
   - [PlasmoVoice](https://modrinth.com/plugin/plasmo-voice)
   - [EmoteCraft](https://modrinth.com/plugin/emotecraft)
   - [OptiFine](https://optifine.net/)/[CIT Resewn](https://modrinth.com/mod/cit-resewn) (Зависит от того, с чем вы играете, с OptiFine или Soduim)
 ::
 
-#### Список **запрещенных** модификаций:
+### Список <span style="color:red;"><b>**запрещенных**</b></span> модификаций:
 ::quote-card{type="danger" unnamed="true"}
   - Чит-модификации (любого вида)
   - Авто-тотем модификации (любого вида)
