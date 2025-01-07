@@ -28,10 +28,10 @@
     },
     "Документы": {
         "legal/rules-for-players.md": "Правила игры на сервере",
+        "legal/oferta.md": "Договор оферты",
         "legal/privacy-policy.md": "Политика конфиденциальности",
         "legal/user-agreement.md": "Пользовательское соглашение",
         "legal/payment-terms.md": "Условия оплаты",
-        "legal/refund-policy.md": "Политика в отношении возврата денежных средств",
         "legal/inactivity-policy.md": "Политика в отношении бездействия",
         "legal/intellectual-property-notice.md": "Intellectual Property Notice"
     }
