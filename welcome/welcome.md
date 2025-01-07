@@ -7,21 +7,21 @@
 
 :::group-of-cards
   ::card{title="Впервые на проекте?"}
-    [Центр информации](/wiki/main/information.md)<br>
-    [Правила проекта](/wiki/legal/rules-for-players.md)<br>
-    [Команды на сервере](/wiki/main/commands.md)<br>
-    [Как начать играть](/wiki/main/howtoplay.md)<br>
+    [Центр информации](/wiki/main/information.md)
+    [Правила проекта](/wiki/legal/rules-for-players.md)
+    [Команды на сервере](/wiki/main/commands.md)
+    [Как начать играть](/wiki/main/howtoplay.md)
     [Модификации](/wiki/main/modifications.md)
   ::
   ::card{title="Ищите крафты?"}
-    [Блоки света](/wiki/recipes/light_block.md)<br>
-    [Невидимые рамки](/wiki/recipes/invframes.md)<br>
+    [Блоки света](/wiki/recipes/light_block.md)
+    [Невидимые рамки](/wiki/recipes/invframes.md)
     [Коктейли](/wiki/modifications/buhlo.md)
   ::
   ::card{title="Ищите гайды?"}
-    [Как начать играть?](/wiki/main/howtoplay.md)<br>
-    [Как установить скин на пиратке?](/wiki/modifications/skins.md)<br>
-    [Как использовать эмоции?](/wiki/modifications/emotes.md)<br>
+    [Как начать играть?](/wiki/main/howtoplay.md)
+    [Как установить скин на пиратке?](/wiki/modifications/skins.md)
+    [Как использовать эмоции?](/wiki/modifications/emotes.md)
     [Как говорить в войс-чате?](/wiki/modifications/voicechat.md)
   ::
 :::
