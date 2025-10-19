@@ -11,4 +11,4 @@
 - 3 блока стекла
 - 1 медный слиток
   
-[img](https://github.com/zooont/minespace/blob/main/assets/lightblock.png?raw=true)
+![image](https://github.com/zooont/minespace/blob/main/assets/lightblock.png?raw=true)
