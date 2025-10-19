@@ -9,4 +9,4 @@
 Даже на пиратском клиенте, вы сможете установить абсолютно любой скин (в том числе, нарисованный вами).
 
 У вас не оторбажаются скины, установленные на сервере и вы играете с TLauncher, уберите галочку "аккаунты" и выберите версию без значка TL.
-[img](https://github.com/zooont/minespace/blob/main/assets/skins-tlauncher-guide.png?raw=true)
+[image](https://github.com/zooont/minespace/blob/main/assets/skins-tlauncher-guide.png?raw=true)
