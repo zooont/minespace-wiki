@@ -9,7 +9,7 @@
 1. Поставить рамку
 2. Положить предмет в рамку
 3. Зажать ПКМ по краю рамки ножницами
-[img](https://github.com/zooont/minespace/blob/main/assets/reciepes-invframes-demonstration.gif?raw=true)
+![image](https://github.com/zooont/minespace/blob/main/assets/reciepes-invframes-demonstration.gif?raw=true)
 
 ## Особенности
 Ножницы ломаются от создания невидимой рамки. В таблице ниже указана прочность ножниц с разными зачарованиями. 
